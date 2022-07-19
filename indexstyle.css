@@ -1,0 +1,18 @@
+.items {
+	font-size: 18px;
+	padding-top: 2cm;
+	padding-right: 2cm;
+	padding-left: 2cm;
+	font-family: 'Kanit', sans-serif;
+
+}
+.items:hover {
+	color: yellow;
+	font-size: 20px;
+}
+
+#menu {
+	background-color: #9dc4f2;
+	padding: 1cm;
+}
+

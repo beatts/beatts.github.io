@@ -1,13 +1,13 @@
-/*####NAVIGATION BAR STYLE####*/
+/* NAVIGATION BAR STYLE*/
 #navbar {
 	background-color: #9dc4f2;
 	height: 3cm;
-	width:  100%;
 	position: absolute;
+	width: 100%;
 }
 #menu {
 	padding: 1cm;
-	margin-left: 100px;
+	margin-left: 105px;
 }
 
 #icon {
@@ -40,9 +40,3 @@
 	
 }
 /*###########################*/
-
-
-*:hover { 
-   outline:1px blue solid;
- } 
- 

@@ -1,13 +1,13 @@
-/*####NAVIGATION BAR STYLE####*/
+/* NAVIGATION BAR STYLE*/
 #navbar {
 	background-color: #9dc4f2;
 	height: 3cm;
-	width:  100%;
 	position: absolute;
+	width: 100%;
 }
 #menu {
 	padding: 1cm;
-	margin-left: 100px;
+	margin-left: 105px;
 }
 
 #icon {
@@ -37,10 +37,38 @@
 .pagelinks:hover {
 	color: #F26322;
 	border-style:solid;
-	
 }
 /*###########################*/
 
+.bullets {   /*IMAGE*/
+	height: 100px;
+}
+
+.pagelink {
+	font-size:60px;
+	text-decoration: none;
+	color: black;
+	padding-left: 30px;
+	position: fixed;
+	font-family: 'Kanit', sans-serif;
+}
+
+#bigcontainer {
+	margin-left: 500px;
+	display: inline-table
+}
+
+.container {
+
+	
+}
+/*
+.container {
+	padding-bottom: 100px;
+	margin-left:500px;
+	height: 100px;
+}
+*/
 
 *:hover { 
    outline:1px blue solid;
